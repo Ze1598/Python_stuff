@@ -37,5 +37,5 @@ def expandUrl(url):
     return response.json()['longUrl']
 
 if __name__ == '__main__':
-    print('Your shortened URL is:', shortenUrl('https://ze1598.wixsite.com/zereviews/single-post/2017/11/26/Impressions-Animal-Crossing-Pocket-Camp'))
+    print('Your shortened URL is:', shortenUrl('https://ze1598.wixsite.com/zereviews'))
     print('Your expanded URL is:', expandUrl('https://goo.gl/7ND8FS'))
