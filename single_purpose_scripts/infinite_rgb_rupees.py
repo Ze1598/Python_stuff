@@ -15,7 +15,7 @@ PI = 3.141592653
 #Window size
 size = (900, 600)
 #Window title
-pygame.display.set_caption("INFINTE RGB RUPEES")
+pygame.display.set_caption("INFINITE RGB RUPEES")
 #Create a window of size 'size'
 screen = pygame.display.set_mode(size)
 
