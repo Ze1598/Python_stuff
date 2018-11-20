@@ -9,6 +9,8 @@ Update log:
 
 -(feb. 18th 2018) Added a bunch of new files with examples. I also updated some already existing ones
 
+-(mar. 28th 2018) Added a bunch of new files, mainly for matplotlib and numpy, including graph screenshots
+
 External references:
 
 -Beautiful Soup: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
