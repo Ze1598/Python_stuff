@@ -3,13 +3,15 @@ Python repo containing examples, small scripts for certain purposes and small pr
 
 This repository will only be updated once in a while when I have new examples for something new I've learned, I work on new projects/update existing ones, or write new scripts
 
-Update log:
+### Update log:
 
--(jan. 18th 2018) Added examples/playing_with_time_modules.py, which is a script to exemplify some of the objects and methods available in the datetime and calendar modules. For this, I've used the payment of a debt with a given interest rate as an example
+* (jan. 18th 2018) Added examples/playing_with_time_modules.py, which is a script to exemplify some of the objects and methods available in the datetime and calendar modules. For this, I've used the payment of a debt with a given interest rate as an example
 
--(feb. 18th 2018) Added a bunch of new files with examples. I also updated some already existing ones
+* (feb. 18th 2018) Added a bunch of new files with examples. I also updated some already existing ones
 
--(mar. 28th 2018) Added a bunch of new files, mainly for matplotlib and numpy, including graph screenshots
+* (mar. 28th 2018) Added a bunch of new files, mainly for matplotlib and numpy, including graph screenshots
+
+* (feb. 26th 2019) Added a bunch of new files
 
 External references:
 
