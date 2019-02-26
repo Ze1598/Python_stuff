@@ -1,0 +1,46 @@
+﻿Command line commands for working with Flask:
+
+-set FLASK_APP=<app_name.py>
+	Defines the root of the source of the Flask application
+
+-flask run
+	Initializes the app at 127.0.0.1:5000 or localhost:5000
+
+-set FLASK_DEBUG=1
+	Next time the app is started, it is started on debug mode.
+	Alternatively, include app.run(debug=True) in the Python script when running it to initalize the app in debug mode.
+
+
+
+
+After setting up the database classes in the main script, 
+open the command line at the project root directory
+	from <main_app_script> import <database_object>
+	e.g.: from flask_blog import db
+Then create the database structure:
+	<database_object>.create_all()
+	e.g.: db.create_all()
+Now the database tables can be imported from the script:
+	from <main_app_script> import table1, table2, table3...
+	e.g.: from flask_blog import User, Post
+To create rows for a table simply create class instances of
+the tables, passing it the necessary arguments. Then use
+	<database_object>.session.add(<table_instance>)
+	e.g.: user_1 = User(username='Jose', email='admin@admin.com', password='password')
+Doing this however is like adding changes to the staging 
+area in Git, this method by itself doesn't commit the changes 
+to the database. To commit changes use
+	<database_object>.session.commit()
+	e.g.: db.session.commit()
+    To delete all information in the database use:
+    <database_object>.drop_all()
+    e.g.: db.drop_all()
+
+Example to filter users by a column value (only the first result though):
+    User.query.filter_by(username='Jose').first()
+Then its columns can be accessed as class attributes
+
+To get the author of a post we can use the value passed to the "backref"
+kwarg in the User table:
+    post = Post.query.first() # Retrieves the first post in the table
+    post.author # Retrieves the author (User) of the first post

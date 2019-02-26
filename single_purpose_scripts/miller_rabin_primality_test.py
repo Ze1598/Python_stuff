@@ -11,14 +11,18 @@ def miller_rabin(n, k):
     or (most) probably prime. 
     This is a non-deterministic algorithm.
     
-    Args:
-        n (int): An integer to be tested 
-    for primality.
-        k (int): The number of tests to perform.
+    Parameters
+    ----------
+    n : int
+        An integer to be tested for primality.
+    k : int
+        The number of tests to perform.
 
-    Returns:
-        bool: True if the number is probably prime,
-    else False.
+    Returns
+    -------
+    bool
+        True if the number is probably prime,
+        else False.
     ''' 
     
     # 1 and 2 are both primes

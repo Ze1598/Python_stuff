@@ -1,0 +1,44 @@
+﻿pipenv commands
+
+Basic commands
+
+=> pipenv shell => Activate the virtual environment by creating a subshell; if a VE doesn't exist yet, then it creates one at the current directory.
+
+=> exit => Deactivate (exit) the VE.
+
+=> pipenv run <command> => Activate the VE and run the specified command (e.g. `pipenv run python` activates the VE and runs the `python` command).
+
+=> pipenv --rm => Remove the VE.
+
+=> pipenv install => Install a VE given a Pipfile/the packages specified in a Pipfile (the Pipfile file must be in the current working directory).
+
+=> pipenv install --ignore--pipfile => Install packages using the Pipfile.lock file / Create a new VE using the Pipfile.lock file (the Pipfile.lock file must be in the current working directory).
+
+
+=> pipenv install <package> => Install a package in the VE; if a VE doesn't exist yet, then it creates one at the current directory.
+
+=> pipenv install -r <requirements_txt_file_path> => install packages using a given requirements.txt file.
+	* To create a requirements.txt file using pip, use the command `pip freeze > requirements.txt`, which will create automatically a requirements.txt file in the current directory, containing all packages installed.
+	* pip can also install packages given a requirements.txt using `pip install -r requirements.txt`.
+
+= pipenv lock => Update/Create the Pipfile.lock file.
+
+=> pipenv lock -r => Output the Pipfile packages in pip's requirements.txt format.
+	* Use `pipenv lock -r > requirements.txt` to create the requirements.txt automatically in the current directory.
+
+
+=> pipenv install <package> --dev => Install a package, but only for the development environment (which is then automatically specified in the Pipfile).
+
+=> pipenv uninstall <package> => Uninstall a package.
+
+=> pipenv --python <major>.<minor> => Recreates the VE using the specified Python version.
+
+
+=> pipenv graph => Outputs a dependency graph of the installed dependencies.
+
+=> pipenv check => Checks for security vulnerabilities and asserts that PEP 508 requirements are being met by the current environment.
+
+=> pipenv --venv => Output the path to the VE.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Regarding environment variables, it's possible to have VE-scope environment variables. For this, just create a .env file with the variables.

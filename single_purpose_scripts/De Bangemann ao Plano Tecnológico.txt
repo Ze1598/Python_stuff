@@ -1,0 +1,1471 @@
+De Bangemann ao Plano Tecnológico
+J. D. Coelho
+Universidade Nova de Lisboa, Faculdade de Economia
+jdcoelho@fe.unl.pt
+Resumo
+Analisa-se o desenvolvimento da sociedade da informação e do conhecimento em Portugal
+desde o relatório do Comissário Europeu Martin Bangemann sobre a Europa e sociedade
+da informação global até ao Plano Tecnológico da responsabilidade do Governo Sócrates.
+Apresentam-se os indicadores estatísticos da sociedade da informação e do conhecimento
+respeitantes ao início e ao final do período em análise. Procura analisar-se em que medida
+a Cimeira de Lisboa contribui para projectar o desenvolvimento de Portugal neste domínio
+chave para a sua competitividade.
+
+Palavras-chave: Sociedade da Informação; Estatísticas;
+Bangemann; Cimeira de Lisboa; Plano Tecnológico.
+
+Relatório
+
+The first countries to enter the information
+society will reap the greatest rewards. They will
+set the agenda for all who must follow. By
+contrast, counties which temporise, or favour
+half-hearted solutions, could, in less than a
+decade, face disastrous declines in investment
+and a squeeze on jobs.
+The Bangemann Report, 1994
+
+1 Pensar o Futuro
+Perspectivar o futuro é uma actividade normal da natureza humana. Em áreas com
+uma evolução muito rápida é uma necessidade.
+A temática da sociedade da informação e do conhecimento está precisamente nesta
+última categoria.
+As implicações no quotidiano dos cidadãos, na organização da sociedade, nos
+comportamentos colectivos, na forma de gerir os negócios, na comunicação social, na
+educação, na saúde, na cultura e no entretenimento, para referir apenas algumas das
+áreas em que as suas repercussões se fazem sentir, são muito importantes.
+Pensar o futuro é deste modo uma actividade imprescindível para todos aqueles que
+desejam intervir no desenvolvimento deste processo, que se encontra em curso na
+sociedade, em que a informação e o conhecimento ganham um papel
+progressivamente mais importante na criação de riqueza e na melhoria da qualidade
+de vida.
+Os efeitos fazem-se sentir no campo social e no domínio da organização política. As
+transformações tecnológicas são o gatilho que faz detonar essas alterações, nem
+sempre de forma imediata. É habitual existir um período mais ou menos longo de
+assimilação da tecnologia e de exploração das suas potencialidades.
+Em 1993 o Conselho Europeu sentiu a necessidade de dispor de uma reflexão sobre
+as ”infra-estruturas na esfera da informação” e atribui essa incumbência a um Grupo
+
+de Alto Nível sobre a Sociedade da Informação liderado pelo Comissário Martin
+Bangemann.
+Na Cimeira do Conselho Europeu, 24-25 de Junho, em Corfu, é apresentado o
+relatório “Europe and the Global Information Society – Recommendations to the
+European Council”, que ficou conhecido como o relatório Bangemann, que marca a
+viragem da União Europeia para o desenvolvimento da sociedade da informação.
+O relatório perspectiva os impactos da sociedade da informação, interroga-se sobre a
+coesão europeia e o fosso digital e aponta caminhos e estratégias para fazer avançar
+a Europa no sentido que afirma ser irrevogável para o seu futuro, atendendo à
+evolução tecnológica que já se adivinhava no momento.
+“The only question is whether this will be a strategic creation for the whole
+Union, or a more fragmented and much less effective amalgam of individual
+initiatives by Member States” (The Bangemann Report)
+A Europa é analisada sob diversos ângulos e em todos eles se antevê profundas
+modificações resultantes daquilo a que se pode chamar a revolução da sociedade da
+informação:
+A Europa dos cidadãos e dos consumidores terá maiores cuidados sociais, uma
+qualidade de vida superior e uma maior variedade de serviços e de formas de
+entretenimento.
+Os criadores de conteúdos disporão de novas formas de exercer a sua criatividade
+que darão origem a novos produtos e serviços.
+As regiões da Europa terão ao seu alcance novas oportunidades para expressar a sua
+identidade e cultura e a barreira da distância, tão relevante para as regiões periféricas,
+será atenuada ou eliminada.
+Os governos e as administrações públicas serão mais eficientes, transparentes e
+próximos do cidadão a custo mais baixo.
+As empresas terão organização e gestão mais eficientes, acesso a novas forma de
+formação e a uma panóplia de serviços, e a novos meios de gestão das redes de
+clientes e fornecedores em favor do aumento da sua competitividade.
+Os operadores de telecomunicações terão ao seu alcance a capacidade de fornecer
+uma maior variedade de serviços com elevado valor acrescentado.
+Os fornecedores de equipamentos e de aplicações na indústria de computadores e de
+electrónica de consumo verão os seus mercados crescer com grande dinamismo tanto
+na União como no seu exterior.
+Reconhece-se que a sociedade da informação oferece um potencial para melhorar a
+qualidade de vida dos cidadãos, a eficiência empresarial e da organização social e
+política, assim como reforçar a coesão europeia.
+As questões em aberto dizem respeito ao risco de cisão da sociedade entre os que
+têm acesso a estas tecnologias e aqueles que delas ficam arredados e à gestão da
+mudança de forma a controlar os riscos e a maximizar os benefícios.
+A educação e a formação ao longo da vida terão de desempenhar um papel essencial
+na preparação dos cidadãos para a nova forma de organização da sociedade e de
+acesso a serviços anteriormente inexistentes.
+“Tide waits for no man, and this is a revolutionary tide, sweeping through
+economic and social life. We must press on. At least we do not have the
+usual European worry about catching up. In some areas we are well
+placed, in others we do need to do more – but this is also true for the rest of
+the world’s trading nations” [ Bangemann, 1994].
+O papel do mercado nesta onda revolucionária é determinante, atendendo à natureza
+da inovação e à necessidade de adequar e, em muitos casos, de inventar novos
+modelos de negócios.
+
+A primeira tarefa dos governos é salvaguardar as forças competitivas e oferecer um
+enquadramento político favorável para o desenvolvimento da sociedade da
+informação, de tal forma que a procura e a oferta de produtos e serviços gere o
+financiamento do seu próprio crescimento.
+2 A Situação em Portugal
+A meio da década de noventa, a situação em Portugal retratada por alguns
+indicadores, é ainda muito primária no respeita à penetração da sociedade da
+Informação. Na penetração do telefone fixo, encontramo-nos em 1995, na cauda da
+Europa, cerca de 15 pontos percentuais abaixo da média europeia (Figura 1). Apenas
+um terço das famílias dispõem de acesso telefónico na rede fixa
+
+80
+70
+60
+50
+40
+30
+20
+10
+
+D
+E
+O
+C
+
+EU
+
+.
+
+Su
+é
+
+.U
+R
+
+Po
+r
+
+Lu
+x
+
+Itá
+
+ol
+H
+
+G
+ré
+
+Fr
+a
+
+Fi
+n
+
+Es
+p
+
+D
+in
+
+B
+el
+
+us
+A
+
+A
+le
+
+0
+
+Figura 1 - Penetração de Telecomunicações por País, 1995
+
+A situação na telefonia móvel é de uma baixíssima penetração à época. Apenas
+2,93% dos portugueses têm telefone móvel (Quadro 1). È verdade que a tecnologia
+GSM se encontrava a arrancar. Apesar disso, vários países europeus tinham taxas de
+penetração de telefone móvel da ordem dos 20%.
+Sendo muito baixa a penetração, estamos porém acompanhados por alguns países
+entre os mais avançados da Europa que tiveram igualmente letargia no arranque da
+tecnologia GSM, tais como a França, a Bélgica e a vizinha Espanha.
+Na rede de cabo a situação é semelhante. Apenas 2% dos portugueses têm acesso à
+televisão por cabo, ao passo que nalguns países europeus, como a Bélgica, Holanda e
+Suíça, se está perto de coberturas quase plenas dos lares desses países.
+A digitalização da rede fixa, mercê de um investimento significativo com apoio
+comunitário logo após à adesão de Portugal à União Europeia, apresenta um valor de
+70% que nos coloca a meio da tabela na Europa dos quinze. A penetração das linhas
+RDIS é muito baixa, tal como é na generalidade dos países europeus, com excepção
+da Alemanha e da Suíça onde já é da ordem dos 4%.
+
+Fontes: ITU, OECD, ECTEL, EITO 1997
+
+Quadro 1 – Alguns Indicadores de Telecomunicações, 1997
+
+Nalguns indicadores começava a ser visível uma aceleração do sector das
+telecomunicações em Portugal (Figura 2). Na penetração da rede telefónica fixa, no
+período de 1990-97, o fosso em relação à média europeia é reduzido de 19,2% para
+12,4%, enquanto em relação à média da OCDE essa diminuição foi de 15,9% para
+9,5%.
+A mesma observação se pode fazer relativamente à cobertura por televisão por cabo.
+Entre 1995 e 1998, a percentagem de alojamento cablados salta de 9,1% para 44%.
+Trata-se de uma recuperação importante em variáveis determinantes para o futuro da
+sociedade da informação em Portugal.
+A digitalização na rede fixa evolui de forma muito positiva e na rede móvel arranca
+verdadeiramente em ambiente digital.
+Entre 1993 e 1997 a digitalização da rede fixa aproxima-se dos países mais evoluídos,
+ultrapassando, por exemplo os EUA (Quadro 3). Na rede móvel a digitalização em
+1997 é de 99,5%, dado que a rede analógica que a precedeu foi praticamente
+substituída nesse período.
+Um estudo da União Europeia publicado em 1997 indica que a percentagem de
+utilizadores da Internet em Portugal é de 2,2% (Quadro 4). Este valor compara-se com
+13,8% na Suécia, 12% na França, 10,5% no Reino Unido e 10,2 na Dinamarca.
+No estudo da Marktest relativo ao período 1996-99, é indicado que no primeiro destes
+anos 7,8% dos portugueses têm acesso à Internet e que 4,1% são utilizadores
+regulares (Quadro 5).
+
+A divergência dos números entre os dois estudos referidos, deverá resultar de
+diferentes definições do conceito de utilizador na Internet, perfeitamente
+compreensível nesta fase em que a normalização de conceitos relativos à Internet
+ainda era embrionária.
+
+Postos Telefónicos Principais por 100 Habitantes
+100
+
+Percentagem
+
+80
+
+60
+1990
+1997
+40
+
+20
+
+0
+
+Portugal
+
+Média UE
+
+Média OCDE
+
+1990
+
+24,3
+
+43,5
+
+40,4
+
+1997
+
+40,3
+
+52,7
+
+49,8
+
+Fonte: International Telecommunication Union (I.T.U.), Yearbook of Statistics 1988-1997.
+
+Figura 2 – Evolução da Rede Fixa em Relação à Média EU e OCDE, 1997
+
+Distribuição de Televisão por Cabo
+Evolução do Número de Alojamentos Cablados
+(em milhares)
+1995
+Alojamentos
+Cablados
+
+N
+377
+
+%
+9,1
+
+1996
+N
+977
+
+%
+23,5
+
+1997
+N
+1466
+
+%
+35,3
+
+1998
+N
+1827
+
+%
+44,0
+
+Fonte: ICP, 1999
+
+Quadro 2 – Evolução da Rede de Cabo, 1999
+
+No final de 1996, 25% dos portugueses dispunham de computador em casa e 45,4%
+tinham acesso a computador.
+No período 19996-99 os valores relativos a acesso à Internet e de utilizador Internet
+praticamente que triplicam (Quadro 5). Isto é consequência do programa Internet nas
+escolas lançado no final de 1996, que não apenas estimulou a sua utilização no
+contexto escolar (Figura 4), mas também serviu de veículo à divulgação dessa
+utilização na população em geral.
+As variáveis relativas à percentagem de computadores nos lares não tiveram no
+mesmo período correspondência equivalente. A disponibilidade de computador em
+casa cresce cerca de 8 pontos percentuais para 32,9. O acesso a computador tem
+
+uma evolução modesta consubstanciada num acréscimo de 5,4%, nesse período, para
+50,9%.
+Rede Fixa - % de digitalização
+
+Alemanha
+Austrália
+Áustria
+Bélgica
+Canadá
+Coreia
+Dinamarca
+Espanha
+Estados Unidos
+Finlândia
+França
+Grécia
+Holanda
+Hungria
+Irlanda
+Islândia
+Itália
+Japão
+Luxemburgo
+México
+Noruega
+Nova Zelândia
+Polónia
+2.1 Portugal
+Reino Unido
+Republica
+Checa
+Suécia
+Suíça
+Turquia
+2.2 Média
+OCDE
+
+1993
+41,00
+40,00
+54,00
+54,00
+84,74
+58,80
+46,00
+41,00
+62,80
+62,00
+86,00
+22,00
+93,00
+27,00
+71,00
+66,00
+57,00
+72,00
+82,00
+68,00
+60,00
+95,00
+9,50
+59,00
+
+1995
+56,30
+62,00
+72,00
+66,00
+94,16
+63,40
+61,00
+56,00
+76,20
+90,00
+100,00
+37,14
+100,00
+53,00
+79,00
+100,00
+76,00
+90,00
+100,00
+87,60
+82,00
+97,00
+48,00
+70,00
+
+1997
+100,00
+84,00
+82,00
+83,10
+66,77
+86,00
+80,80
+83,90
+100,00
+100,00
+47,07
+100,00
+70,00
+92,00
+100,00
+94,00
+100,00
+100,00
+90,10
+100,00
+100,00
+58,00
+88,30
+
+Rede móvel -% de
+assinantes da rede
+digital
+1997
+94,18
+51,46
+78,50
+98,19
+77,35
+83,69
+74,58
+77,95
+97,83
+100,00
+84,66
+88,79
+64,76
+62,16
+71,08
+95,39
+100,00
+0,00
+76,88
+99,50
+
+75,00
+10,00
+
+88,00
+17,00
+
+100,00
+54,60
+
+78,85
+87,94
+
+67,00
+48,00
+74,00
+58,1
+
+91,00
+66,00
+77,00
+74,3
+
+99,10
+99,00
+81,60
+87,1
+
+76,18
+85,33
+92,13
+83,2
+
+Fonte: OCDE, Communications Outlook 1999.
+
+Quadro 3 – Evolução da Digitalização nos Países da OCDE
+
+A explicação tem de ser encontrada no reduzido poder de compra das famílias
+portuguesas e no elevado custo dos computadores, relativamente ao seu orçamento
+familiar médio, naquele período.
+
+Número de
+Utilizadores 103
+Alemanha
+5529
+Áustria
+480
+Bélgica
+403
+Luxemburgo
+31
+Dinamarca
+540
+Espanha
+853
+Finlândia
+521
+França
+7038
+Grécia
+110
+Holanda
+826
+Irlanda
+157
+Itália
+680
+Portugal
+216
+Reino Unido
+6198
+Suécia
+853
+Fonte: EITO Task Force
+
+Número de Utilizadores por
+100 Habitantes
+6,7
+5,9
+4,0
+7,4
+10,2
+2,2
+10,2
+12,0
+1,0
+5,3
+4,4
+1,2
+2,2
+10,5
+13,8
+
+Quadro 4 - Utilizadores da Internet na União Europeia, 1997
+
+Possuem computador
+em casa
+Têm acesso a
+computador
+Já ouviram falar da
+Internet
+Têm acesso à Internet
+Costumam utilizar a
+Internet
+
+Jan/Mar
+98
+
+Abr/Jun
+98
+
+Set/De
+z 98
+
+Jan/Ma
+r
+99
+
+26,1
+
+Abr/Jun
+97
+Set/De
+z 97
+27,3
+
+29,9
+
+32,0
+
+31,3
+
+32,9
+
+45,4
+
+46,5
+
+47,5
+
+47,8
+
+51,3
+
+50,0
+
+50,9
+
+84,3
+
+87,0
+
+89,3
+
+92,4
+
+93,5
+
+93,2
+
+94,6
+
+7,8
+4,1
+
+9,6
+5,1
+
+11,7
+6,1
+
+16,8
+9,3
+
+20,2
+10,6
+
+18,6
+9,6
+
+20,8
+11,9
+
+Set/Dez
+96
+Jan/Mar
+97
+25,0
+
+Jan/Jun
+97
+
+Universo: 7 525 000 indivíduos com 15 e mais anos, residentes em Portugal Continental
+(7 528 382 no primeiro trimestre de 1999)
+Fonte: Marktest, Bareme-Internet (Setembro de 1996 a Março de 1999)
+http://www.marktest.pt
+Fonte: Fundação para a Computação Científica Nacional /Observatório das Ciências e das Tecnologias, 1999.
+
+Quadro 5 - Internet: Estudo de Audiência em Portugal
+
+Te le fo ne s M ó ve is p o r 1 0 0 Ha b ita nte s
+100
+
+Percentagem
+
+80
+60
+40
+20
+0
+
+P ortugal
+
+M édia UE
+
+M édia O CD E
+
+1990
+
+0,1
+
+1,3
+
+1,4
+
+1997
+
+15,2
+
+17,4
+
+16,5
+
+1998
+
+31,2
+
+Fonte: ITU, Yearbook of Statistics 1988-1997
+
+Figura 3 – Evolução da Rede Móvel em Relação à Média EU e OCDE, 1997
+
+Evolução do Número Médio de Acessos Diários à Internet nas Escolas
+80000
+70000
+60000
+50000
+40000
+30000
+20000
+10000
+0
+
+1997
+
+1998
+
+1999
+
+19767
+
+59650
+
+74410
+
+Fonte: Fundação para a Computação Científica Nacional /Observatório das Ciências e das Tecnologias, 1999.
+
+Figura 4 – Evolução do Número Médio de Acessos à Internet nas escolas, 1997-99
+
+Suí ça
+Reino Unido
+Luxemburgo
+Irlanda
+França
+Espanha
+Bélgica
+Alemanha
+0
+Fonte: Wired Magazine, 1995
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+Figura 5 – Servidores da rede Internet por 1000 habitantes
+
+3 O Início do Milénio
+O quinquénio 2000-04 inicia-se no contexto da sociedade da informação com um
+documento da maior relevância a nível Europeu. Trata-se das conclusões da Cimeira
+de Lisboa onde é definido o objectivo da EU até ao ano 2010 “tornar-se na economia
+baseada no conhecimento mais dinâmica e competitiva do mundo, capaz de garantir
+um crescimento económico sustentável, com mais e melhores empregos, e com maior
+coesão social”.
+Subjacente está a ideia de “preparar a transição para uma economia e uma sociedade
+baseadas no conhecimento, através da aplicação de melhores políticas no domínio da
+sociedade da informação e da I&D, bem como da aceleração do processo de reforma
+estrutural para fomentar a competitividade e a inovação”.
+Em consequência das metas fixadas no Conselho Europeu de Lisboa é elaborado o
+‘Plano de Acção eEurope 2002 – Uma Sociedade da informação para Todos’ onde são
+definidas dez áreas chave agrupadas em três objectivos principais:
+1. Uma Internet mais barata, mais rápida e segura
+a) Acesso mais barato e mais rápido à Internet
+b) Internet mais rápida para investigadores e estudantes
+c) Redes seguras e cartões inteligentes
+2. Investir nas pessoas e nas qualificações
+a) Entrada da juventude europeia na era digital
+b) Trabalhar na economia do conhecimento
+c) Participação de todos na economia do conhecimento
+3. Estimular a utilização da Internet
+a) Acelerar o comércio electrónico
+b) Administração em linha: acesso electrónico aos serviços públicos
+c) Cuidados de saúde em linha
+
+d) Conteúdos digitais europeus para as redes mundiais
+e) Sistemas de transporte inteligentes
+Como se pode observar estas áreas chave inserem-se exclusivamente no domínio da
+sociedade da informação e do conhecimento. Tratando-se de medidas resultantes da
+estratégia de Lisboa, estabelecida durante a presidência portuguesa, seria de esperar
+um total compromisso do governo português na sua concretização.
+A expectativa criada nas elites da sociedade portuguesa, comprometidas com o
+desenvolvimento da sociedade da informação e do conhecimento, era de que se iria
+entrar num período intenso de desenvolvimento segundo as linhas estratégicas
+definidas na Cimeira Europeia. Porém, tal não aconteceu.
+Entrou-se num período de hesitação operacional agravado pelo início das dificuldades
+orçamentais que se estenderam até ao final deste período.
+O Governo Socialista de António Guterres apresenta a sua demissão. Segue-se-lhe
+uma coligação PSD/CDS-PP, liderada inicialmente por Durão Barroso, dando origem a
+um hiato no domínio da sociedade da informação e ao início de novas etapas de
+reflexão quando se necessitava de agir e de implementar com determinação.
+Neste período é criada a UMIC – Unidade Missão Inovação e Conhecimento com as
+competências inerentes ao desenvolvimento da sociedade da informação e do
+conhecimento. Em 2003, a UMIC elabora um documento de análise intitulado
+“Sociedade da Informação e Governo Electrónico - Relatório de Diagnóstico”.
+Seguem-se-lhe vários outros documentos de análise, incluindo propostas concretas,
+nomeadamente “Uma Nova Dimensão de Oportunidades - Plano de Acção para a
+Sociedade da Informação”, “Iniciativa Nacional para a Banda Larga” e “Qualidade e
+Eficiência dos Serviços Públicos - Plano de Acção para o Governo Electrónico”.
+Sem menosprezar a importância dos documentos acima referidos, que contribuíram de
+forma significativa para a sensibilização da sociedade portuguesa no domínio da
+sociedade da informação e do conhecimento, temos objectivamente de reconhecer
+que deste período nos restaram dois projectos relevantes, a saber: Os “Campos
+Virtuais Universitários” e a biblioteca virtual do conhecimento “B-On”, para além de
+uma iniciativa embrionária no domínio das compras públicas electrónicas (“Programa
+Nacional De Compras Electrónicas”), e do lançamento do “Portal do Cidadão”, com
+valor acrescentado reduzido em relação ao portal INFOCID que o precedeu dez anos
+antes, esse sim, nessa época, com elevada componente de inovação.
+É necessário reconhecer que é pouco para um objectivo estratégico de primeiro nível,
+assumido com pompa e circunstância numa cimeira de Chefes de Estado da União
+Europeia, que ainda por cima tem a si acoplado um rótulo da cidade de Lisboa, que
+nos devia honrar.
+Este estado de letargia e de confusão estratégica prolonga-se até 2005.
+Em súmula, o período 2000-05 frustrou as expectativas geradas no domínio da
+sociedade da informação em Portugal. Em contraste com a posição pró-activa
+subjacente à Cimeira de Lisboa.
+4 O Plano Tecnológico
+O governo Socialista liderado por José Sócrates lançou o “Plano Tecnológico” com o
+objectivo implícito de cumprir e dar seguimento operacional aos objectivos assumidos
+na Estratégia de Lisboa. Foi criada a Unidade de Coordenação do Plano Tecnológico.
+O plano tecnológico apresenta-se segundo três eixos: “Conhecimento”, “Tecnologia” e
+“Inovação”. O primeiro tem por objectivo qualificar os portugueses para a sociedade da
+
+informação e do conhecimento, o segundo visa contribuir para vencer o atraso
+científico e tecnológico e o terceiro imprimir um novo impulso à inovação.
+O plano tecnológico é assumido como um pilar do Programa Nacional de Acção para o
+Crescimento e o Emprego (PNACE 2005/2008), dando concretização às suas
+dimensões de Inovação, Investigação e Qualificação, entendidas como vectores
+determinantes para a mudança do posicionamento competitivo de Portugal, para o
+aumento da produtividade e para o desenvolvimento duma economia baseada no
+conhecimento.
+Na sua concepção trata-se de um documento aberto, porque admite a incorporação de
+novas contribuições, nomeadamente com origem na Sociedade Civil. Prevê também
+uma avaliação periódica de resultados.
+Em consequência da sua estrutura aberta o plano tecnológico acolhe contribuições
+provindas dos mais variados sectores com diferentes níveis de profundidade,
+dimensão e alcance.
+Assim, pode dizer-se que o plano tecnológico é uma “agenda” de iniciativas
+categorizadas segundo os eixos mencionadas. Acomoda mais de uma centena de
+iniciativas provenientes dos mais variados sectores da administração. Mas, não
+garante a articulação nem a integração entre as várias medidas propostas.
+Nesse sentido, a APDSI – Associação para a Promoção e Desenvolvimento da
+Sociedade da Informação considerou que o plano tecnológico nem é estratégico nem
+é operacional, explicitando que “não sendo um plano estratégico genuíno, não é
+todavia, um plano operacional, já que os alvos propostos são mais gerais do que é
+desejável que aconteça num plano destinado a ser aplicado e controlado
+afirmativamente.
+Não estamos, assim, nem perante um plano estratégico que alimente uma visão nem
+perante um plano operacional que determine acções concretas a realizar para os alvos
+definidos e especificados”.
+Este facto é tanto mais importante na medida em que o papel do Estado continua a ser
+importante para a mobilização e dinamização da sociedade da informação. Em
+Portugal e nos restantes Estados membros da União europeia a acção dos governos
+tem um efeito demonstrador através de políticas inovadoras nas escolas, hospitais e
+outros sectores da administração pública. A deficiente planificação destas iniciativas
+terá sempre um efeito negativo amplificado na sociedade.
+Esta visão não invalida porém as consequências positivas da iniciativa política
+subjacente ao plano tecnológico, na medida em que impulsiona uma convergência de
+esforços em linha com os princípios de desenvolvimento do conhecimento, tecnologia
+e inovação, unanimemente aceites como imprescindíveis para um aumento da
+produtividade e competitividade da economia portuguesa.
+Os programas ‘Empresa na Hora’, ‘Ligar Portugal’, bem como as transformações no
+sector da Justiça e restantes iniciativas no âmbito do ‘Simplex’, estão a contribuir para
+gerar uma grande sensibilização ao potencial das tecnologias da informação e das
+comunicações para o acréscimo de eficiência da administração, acompanhada por
+redução de custos, melhoria do contexto competitivo empresarial e aumento da
+qualidade de vida dos cidadãos.
+O passo seguinte desta análise é tentar observar o reflexo destas iniciativas nalguns
+indicadores da sociedade da informação.
+5 Alguns Indicadores da Sociedade da Informação
+Num sector as Estatísticas portuguesas estão ao nível do melhor do mundo. É
+precisamente o sector dos telefones móveis de 2ª geração.
+
+Na Figura 6 pode constatar-se que Portugal, entre os países da OCDE, e países com
+estatuto de observador como Singapura e Israel, posiciona-se no quartil superior.
+
+Assinantes por 100 habitantes
+
+120
+
+Assinantes Móveis
+100
+Assinantes com Cartões Pré-Pagos
+
+80
+
+60
+
+40
+
+20
+
+0
+S ing ap ore **
+
+Israe l**
+
+M exico
+
+C an ad a
+
+T u rkey
+
+P ola nd
+
+U nited S tates
+
+F ra nce
+
+Ja pa n
+
+O E C D ave rage
+
+K o rea
+
+S lov ak R ep ub lic
+
+A ustralia
+
+S w itze rlan d
+
+H un ga ry
+
+N ew Z e ala nd *
+
+B elg iu m
+
+G e rm an y
+
+S p ain*
+
+Ire la nd
+
+F inla nd
+
+D en m ark
+
+A ustria
+
+N eth erla nd s
+
+Ice la nd
+
+P ortug al
+
+G re ece
+
+U nited K in gd om
+
+N orw ay*
+
+C ze ch R ep ub lic
+
+Ita ly
+
+S w e den
+
+Luxe m bo urg
+
+Fonte: OECD Key ICT indicators, 2005
+
+Figura 6 -Taxa de Penetração de Telefones Móveis e de Cartões Pré-Pagos, 2005
+
+Na rede fixa, consequência do atraso existente quando do lançamento das redes
+móveis, a situação é mais modesta, encontrando-se Portugal no quartil inferior (Figura
+7).
+Poderá argumentar-se que a rede fixa está a perder o seu papel de indicador de
+desenvolvimento, que desempenhou até a meio da década de noventa, em virtude da
+expansão da rede móvel.
+A utilização da rede fixa para a transmissão de dados em banda larga não pode ser
+relegada para segundo plano. Porém, a taxa de penetração da rede fixa nas famílias
+será menos relevante, dado a existência de meios alternativos de comunicação
+tecnologicamente mais evoluídos.
+
+100
+
+linhas/Canais por 100 habitantes
+
+90
+
+Canais de Acesso
+80
+
+Canais de Acesso Analógico
+70
+
+Linhas Totais
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+Mexico**
+Slovak R epublic**
+Turkey**
+C zech R epublic
+Poland
+
+S in g a p o re *
+Is r a e l *
+
+Figura 8 - Assinantes de Banda Larga por 100 Habitantes
+
+H ungary
+Portugal
+Austria
+Belgium
+Spain**
+Ireland
+N ew Zealand**
+
+G re e c e
+M e x ic o
+T u rk e y
+S lo v a k R e p u b lic
+C z e c h R e p u b lic
+P o la n d
+Ir e l a n d
+H u n g a ry
+N e w Z e a la n d
+S p a in
+P o r tu g a l
+Ita l y
+G e rm a n y
+A u s tr a l i a
+O E C D a v e ra g e
+L u x e m b o u rg
+A u s tr i a
+F ra n c e
+U n i te d K i n g d o m
+U n i te d S ta te s
+Japan
+Sweden
+N o rw a y
+B e lg iu m
+F in la n d
+Canada
+S w i tz e r l a n d
+Ic e l a n d
+D e n m a rk
+N e th e r l a n d s
+K o re a
+
+Fonte: OECD Key ICT indicators, June 2005
+
+Other Platforms
+Cable Modem
+DSL
+
+Italy
+N etherlands
+France**
+OEC D average
+Japan
+N orw ay
+Germany
+Finland
+U nited Kingdom
+Greece
+Australia
+Iceland
+Sw itzerland
+D enmark
+Korea**
+C anada**
+U nited States
+Sw eden
+Luxembourg
+
+Fonte: OECD Key ICT indicators, 2005
+
+Figura 7- Percentagem de Linhas de Acesso, 2005
+
+Subscribers per 100 inhabitants
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+A evolução tecnológica sobre a rede de cobre, nomeadamente pelas tecnologias DSL,
+tem alargado o seu campo de utilização, não sendo ainda claro qual o papel futuro da
+rede fixa de cobre. Até ao presente tem facultado uma das alternativas para oferta de
+banda larga, com elevadas taxas de crescimento.
+No que se refere à taxa de penetração da banda larga, Portugal encontra-se a meio da
+tabela entre os países da OCDE, posicionado entre a Espanha, Itália e Alemanha
+(Figura 8).
+Em acréscimo, a banda larga tem apresentado taxas de crescimento elevadas nos
+últimos anos em Portugal.
+Se tivermos presente que nas aplicações da sociedade da informação a largura de
+banda desempenha um papel fundamental, este facto auspicia melhoria futura da
+competitividade do país.
+
+100
+
+%
+2000
+
+2001
+
+2003
+
+2004
+
+2005
+
+80
+
+60
+
+40
+
+20
+
+0
+U n ite d S ta te s
+
+U n ite d K in g d o m
+
+T u rk e y (6 )
+
+S w itz e rla n d
+
+Sweden
+
+S p a in
+
+S lo v a k R e p u b lic
+
+P o rtu g a l
+
+P o la n d
+
+N o rw a y
+
+N e w Z e a la n d (5 )
+
+N e th e rla n d s
+
+M e x ic o (4 )
+
+L u x e m b o u rg
+
+K o re a (3 )
+
+Japan
+
+Ita ly
+
+Ire la n d
+
+Ic e la n d
+
+H u n g a ry
+
+G re e c e
+
+G e rm a n y
+
+F ra n c e
+
+F in la n d
+
+D e n m a rk
+
+C z e c h R e p u b lic
+
+C a n a d a (2 )
+
+A u s tria
+
+A u s tra lia
+
+Fonte: OECD Key ICT indicators, 2005
+
+Figura 9 - Percentagem de Famílias com Computador, 2000-2005
+
+Um outro indicador de enorme relevância é a percentagem de famílias com
+computador no lar. Nessa variável a posição portuguesa não é invejável (Figura 9).
+No período 200-2005 o crescimento foi muito modesto, muito aquém do que outros
+países alcançaram. Este facto, resulta parcialmente da situação económica do país,
+que nesse período apresenta taxas de crescimento abaixo da média europeia. Porém,
+noutra perspectiva, esta evolução pouco favorável resulta da inexistência de uma
+visão estratégica clara, consubstanciada em acções, da importância para o
+desenvolvimento das componentes relativas ao crescimento da sociedade da
+informação.
+A taxa de penetração da Internet é outro indicador em que Portugal não está
+particularmente bem posicionado (Figura 10). Esse indicador apresenta um nível
+similar ao dos países do alargamento da União Europeia, como a Polónia e a Hungria.
+O baixo nível de literacia que persiste em Portugal não augura evolução rápida nesta
+variável. Irá manter-se um fosso em relação aos países do Norte e do Centro da União
+Europeia, enquanto não for resolvido o problema prévio da literacia em termos latos.
+
+100,0
+
+90,0
+
+80,0
+
+70,0
+
+60,0
+
+50,0
+
+40,0
+
+30,0
+
+20,0
+
+10,0
+
+m
+
+Ne
+
+M
+
+bo
+
+ur
+
+g
+ex
+N e ic o
+th (5 )
+er
+w
+Z e l a nd
+al
+an s
+d
+(
+N o 6)
+rw
+a
+Po y
+la
+Sl
+Po n d
+ov
+a k rtu g
+Re a l
+pu
+bl
+ic
+Sp
+ai
+Sw S w n
+i t z ed
+e
+er
+la n
+nd
+Tu (7
+Un
+)
+r
+ite key
+d
+(
+8
+Ki
+ng )
+do
+m
+
+)
+
+n
+
+(4
+a
+
+re
+Lu
+
+xe
+
+ly
+
+pa
+Ko
+
+Ita
+
+Ja
+
+Au
+st
+r
+B e ia
+l
+g
+C a iu
+C z na m
+da
+ec
+h
+R e (3 )
+pu
+De blic
+nm
+ar
+Fi k
+nl
+an
+d
+Fr
+an
+c
+G
+er e
+m
+an
+G y
+re
+e
+Hu c e
+ng
+ar
+Ic y
+el
+an
+d
+Ire
+la
+nd
+
+0,0
+
+Fonte: OECD Key ICT indicators, 2005
+
+Figura 10 -Taxa de Penetração da Internet, 2005
+
+%
+
+6
+1995
+
+2004
+
+5
+4
+
+3
+2
+
+1
+0
+S lo v e n ia
+
+P o la n d
+
+H ungary
+
+S lo v a k R e p .
+
+Ic e la n d
+
+C z ec h R ep.
+
+N orw ay
+
+S w itz e r la n d
+
+P o r tu g a l
+
+G reec e
+
+S p a in
+
+B e lg iu m
+
+Ir e la n d
+
+Ita ly
+
+G erm any
+
+U n ite d K in g d o m
+
+F ranc e
+
+Lux em bourg
+
+A u s tr ia
+
+D enm ark
+
+F in la n d
+
+N e th e r la n d s
+
+Sw eden
+
+EU 15
+
+A u s tr a lia
+
+U n ite d S ta te s
+
+C anada
+
+Fonte: OECD Key ICT indicators, 2005
+
+Figura 11 - Percentagem do Sector TIC na Economia (sentido estrito) 1995-2004
+(Portugal 1998 em vez de 1995)
+
+O acesso à Internet requer literacia informática que não se resolve em situações de
+persistência de analfabetismo ou de iliteracia funcional.
+
+Um indicador sintomático da ausência de políticas eficazes para o desenvolvimento da
+sociedade da informação no período 2000 a 2005 é precisamente a evolução do peso
+do sector das tecnologias da informação e da comunicação na economia, no período
+1998 a 2004, em que Portugal é o único país da OCDE em que esse peso decresce
+(Figura 11).
+Este facto demonstra que alguma coisa faltou para guindar Portugal a um estatuto de
+país desenvolvido. As dificuldades económicas recentes, resultantes da ausência de
+competitividade da economia, fazem recordar [Bangemann, 1994] quando afirmava
+que os países cuja aposta na sociedade da informação fosse a meio gás, ou seja, sem
+verdadeiro empenho, em menos de uma década sofreriam um declínio desastroso no
+investimento e uma redução do emprego.
+Conforme foi referido no ponto 3., no período 2000 - 2005, em contraste com as
+decisões da Cimeira de Lisboa, prometeu-se muito através de planos de acção, mas
+concretizou-se muito abaixo das expectativas criadas.
+6 Conclusões
+Neste trabalho analisa-se o desenvolvimento da sociedade da informação e do
+conhecimento em Portugal, desde o relatório seminal [Bangemann, 1994] até ao
+[Plano Tecnológico, 2005].
+As estatísticas relativas aos períodos, inicial e final, evidenciam um desenvolvimento
+significativo em todos os indicadores da sociedade da informação nesse período.
+Contudo, nos indicadores relativos à rede móvel e ao crescimento da banda larga,
+Portugal recuperou o atraso e juntou-se ao grupo dos países desenvolvidos. Noutros
+indicadores persistiu o atraso.
+A Cimeira de Lisboa que projectou o país para além fronteiras, foi uma oportunidade
+perdida, em virtude de não ter sido seguida pela concretização empenhada dos
+poderes políticos, nos caminhos apontados naquele documento.
+No período 2000 a 2005, prometeu-se muito em termos de planos de acção e realizouse pouco. Certamente, muito abaixo das expectativas criadas.
+7 Referências
+Bangemann, M., Recommendations to the European Council: Europe and the global
+information
+society,
+http://europa.eu.int/ISPO/infosoc/backg/bangeman.html
+1994.
+Comissão Europeia, Conselho Europeu de Lisboa: Conclusões da Presidência,
+http://europa.eu.int/comm/off/index_en.htm, 2000.
+Missão para a Sociedade da Informação - MCT, Livro Verde para Sociedade da
+Informação em Portugal, http://www.acesso.umic.pcm.gov.pt/docs/lverde.htm,
+1997.
+UMIC, Uma Nova Dimensão de Oportunidades – Plano de acção para a Sociedade da
+Informação, http://www.umic.pt/UMIC/CentrodeRecursos/Publicacoes/egov.htm,
+2003.
+Unidade de Coordenação do Plano Tecnológico, Plano Tecnológico - República
+Portuguesa, XVII Governo Constitucional, http://www.planotecnologico.pt, 2005.
+
+

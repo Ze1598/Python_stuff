@@ -71,7 +71,7 @@ class Block:
 
 		# Create a single string for the contents of the\
 		# block
-		block_header = str(self.time_stamp) + str(self.transactions) +str(self.previous_hash) + str(self.nonce)
+		block_header = str(self.time_stamp) + str(self.transactions) + str(self.previous_hash) + str(self.nonce)
 		# Hash the block's contents
 		block_hash = sha256(block_header.encode())
 
@@ -80,6 +80,15 @@ class Block:
 
 	def print_contents(self):
 		"""
+		Print all the contents (attributes) of the block.
+
+		Parameters
+		----------
+		None
+
+		Returns
+		-------
+		None
 		"""
 
 		# Print each property of the block, individually
@@ -120,6 +129,13 @@ class Blockchain:
 
 	def __init__(self):
 		"""
+		Creates a new blockchain. The constructor calls the necessary
+		method to create the genesis block, that is, when a new
+		blockchain is created, its genesis block is created as well.
+
+		Parameters
+		----------
+		None
 		"""
 		
 		# The list containing all blocks
@@ -133,9 +149,17 @@ class Blockchain:
 		"""
 		Creates the genesis block of the blockchain, that is,
 		the first block.
+
+		Parameters
+		----------
+		None
+
+		Returns
+		-------
+		None
 		"""
 
-		# List to hold the transactions of the genesis block
+		# List to hold the transactions of the genesis block (empty list)
 		transactions = []
 		# The genesis block contents will be empty and since\
 		# it doesn't have a previous block, the previous hash\
@@ -157,7 +181,9 @@ class Blockchain:
 			to a transaction that will be saved in the block.
 		"""
 
-		# Get the hash of the previous block
+		# Get the hash of the previous block (since we are appending a\
+		# block to the chain, what we want is the hash of the last block\
+		# (last element in the list))
 		previous_hash = self.chain[-1].hash
 		# To create the new block, use the list of transactions passed\
 		# to this method call and use the hash of the last block in\
@@ -173,23 +199,47 @@ class Blockchain:
 		"""
 		Prints each property of a block, for each block in the
 		blockchain.
+
+		Parameters
+		----------
+		None
+
+		Returns
+		-------
+		None
 		"""
 
-		# Loop through the blocks in the chain and print their\
+		# Loop through the blocks in the chain (list) and print their\
 		# information
 		for i in range(len(self.chain)):
 			current_block = self.chain[i]
 			print(f"Block {i} {current_block}")
 			# This method print each property of the block
 			current_block.print_contents()
+			print()
 
 	def validate_chain(self):
 		"""
 		Validates the blockchain, that is, validates that no
 		block has been tampered with.
+		Loop through the chain and hash each block and its previous
+		block's. If one of these is not equal to the hashes saved in
+		those blocks, then the blockchain has been tampered with.
+		Otherwise, if we reach the end of the chain without finding
+		any incorrect hashes, it means the chain is validated.
+
+		Parameters
+		----------
+		None
+
+		Returns
+		-------
+		bool
+			False if the blockchain has been tampered with; else True.
 		"""
 
-		# Loop through the chain of blocks
+		# Loop through the chain of blocks (start at the second block, that\
+		# is, ignore the genesis block since it doesn't have a previous block)
 		for i in range(1, len(self.chain)):
 			# The current block we're examining
 			current = self.chain[i]
@@ -204,10 +254,9 @@ class Blockchain:
 				return False
 
 			# If we hash the previous block and the result does not\
-			# match the hash saved in it, it means the chain is not\
-			# validated
+			# match the saved hash, it means the chain is not validated
 			if current.previous_hash != previous.generate_hash():
-				print("Found a mismatch with previous block's hash")
+				print("Found a mismatch with the previous block's hash")
 				return False
 
 		# If the method ran up to this point, it means we didn't find\
@@ -218,7 +267,7 @@ class Blockchain:
 
 	def proof_of_work(self, block, difficulty=2):
 		"""
-		Creates the Proof-of-Work for a given block with a given
+		Create the Proof-of-Work for a given block, with a given
 		difficulty.
 
 		Parameters
@@ -246,7 +295,7 @@ class Blockchain:
 			# hash one more time
 			proof = block.generate_hash()
 
-		# After producing the proof-of-work, reset the nonce property
+		# After producing the proof-of-work, reset the nonce attribute
 		block.nonce = 0
 
 		# Finally, return the proof-of-work
@@ -271,6 +320,7 @@ if __name__ == "__main__":
 		"receiver": "Cole",
 		"amount": "35"
 	}
+	# This one will be used to modify a block of the chain
 	fake_transactions = {
 		"sender": "Bob",
 		"receiver": "Cole, Alice",
@@ -283,8 +333,9 @@ if __name__ == "__main__":
 	print('Blockchain contents')
 	local_blockchain.print_blocks()
 	print()
+	print()
 
-	# Create a block for each transaction created and add those\
+	# Create a block for each transaction (dictionary) and add those\
 	# blocks to the blockchain
 	local_blockchain.add_block(block_one_transactions)
 	local_blockchain.add_block(block_two_transactions)
