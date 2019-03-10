@@ -13,6 +13,8 @@ This repository will only be updated once in a while when I have new examples fo
 
 * (feb. 26th 2019) Added a bunch of new files
 
+* (mar. 10th 2019) Added a bunch of new files
+
 External references:
 
 -Beautiful Soup: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
