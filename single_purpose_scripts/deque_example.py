@@ -1,16 +1,37 @@
 '''
-	A deque data structure works as an hybrid between a stack and
+A deque data structure works as an hybrid between a stack and
 a queue. Items can be added both at the front or at the rear and
 can be removed both at the front and the rear as well. Thus, a
 deque does not need to respect neither the FIFO (first-in,
 first-out) nor the LIFO (last-in, first-out) principles.
 '''
 
-# As such, we can use Python's built-in `list`s to implement a class\
-# for the deque data structure
-# We'll the beginning of the list as the deque's front and the end of the\
-# list as the rear
 class Deque ():
+	'''
+	Implement the deque data structure using Python's built-in lists.
+	In this implementation, the beginning of the list is the deque's front and
+	the end is the deque's rear.
+
+	Attributes
+	----------
+	items : list
+		The deque itself.
+
+	Methods
+	-------
+	is_empty ()
+		Check if the deque is empty.
+	add_front (item)
+		Add a new item to the front of the deque (beginning of the list).
+	add_rear (item)
+		Add a new item to the rear of the deque (end of the list).
+	remove_front ()
+		Remove and return the front item of the deque (beginning of the list).
+	remove_rear ()
+		Remove and return the front item of the deque (end of the list).
+	size ()
+		Get the size of the deque.
+	'''
 
 	# A new deque starts empty (an empty list)
 	def __init__ (self):
@@ -78,7 +99,6 @@ class Deque ():
 		'''
 
 		return self.items.pop(0)
-
 
 	def remove_rear (self):
 		'''

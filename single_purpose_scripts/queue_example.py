@@ -7,10 +7,29 @@ one that has been in the queue the longest. The last to be removed is
 the last in the queue, the one that has been there the shortest.
 '''
 
-# As such, we can use Python's built-in `list`s to create a Queue class.
-# We'll use the beginning of the list as the Queue's front and the\
-# end of the list as the Queue's rear
 class Queue ():
+	'''
+	Implement the queue data structure using Python's built-in lists.
+	In this implementation, the beginning of the list/queue is the front
+	and the end is the rear (that is, newly-enqueued items are appended
+	to the list).
+
+	Attributes
+	----------
+	items : list
+		The queue itself.
+
+	Methods
+	-------
+	is_empty ()
+		Check if the queue is empty.
+	enqueue (item)
+		Add a new item to the queue (append it to the list).
+	dequeue ()
+		Remove and return an item from the queue (the first item of the list).
+	size ()
+		Get the size of the queue.
+	'''
 
 	# A new queue starts empty (an empty list)
 	def __init__ (self):

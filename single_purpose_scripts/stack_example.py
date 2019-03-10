@@ -9,9 +9,31 @@ order of removal.
 '''
 
 
-# As such, we can Python's built-in `list`s to implement a class for\
-# the stack data structure.
 class Stack ():
+	'''
+	Implement the stack data structure using Python's built-in lists.
+	The bottom of the stack is the beginning of the list and the top
+	is the end of the list (that is, newly-stacked items are appended
+	to the list).
+
+	Attributes
+	----------
+	items : list
+		The stack itself.
+
+	Methods
+	-------
+	is_empty ()
+		Check if the stack is empty.
+	push (item)
+		Add a new item to the top of the stack (append it to the list).
+	pop ()
+		Remove and return an item from the stack (the last item of the list).
+	peek ()
+		Return the top item from stack without removing it.
+	size ()
+		Get the size of the stack.
+	'''
 
 	# A new stack starts empty (an empty list)
 	def __init__ (self):

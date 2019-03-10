@@ -118,7 +118,40 @@ print(tree)
 # The following is the implementation of a Binary Tree using a Python class
 # ------------------------------------------------------------------------------------
 
-class Binary_Tree:
+class BinaryTree:
+	'''
+	Implement a Binary Tree. Instead of creating node objects for each node,
+	each node represents the root node of its own (sub)tree. 
+	In this implementation, nodes only have a payload, that is, the value they
+	hold.
+
+	Attributes
+	----------
+	root : int
+		The root.
+	left_child : __main__BinaryTree
+		The left child of the root. The child itself is the root of the original
+		root's left subtree.
+	right_child : __main__BinaryTree
+		The right child of the root. The child itself is the root of the original
+		root's right subtree.
+
+	Methods
+	-------
+	insert_left (new_node)
+		Insert a left child for the root of the current (sub)tree.
+	insert_right (new_node)
+		Insert a right child for the root of the current (sub)tree.
+	get_right_child ()
+		Get the right child of the root of the current (sub)tree.
+	get_left_child ()
+		Get the left child of the root of the current (sub)tree.
+	set_root ()
+		Set a new value for the root of the current (sub)tree.
+	get_root ()
+		Get the root of the current (sub)tree.
+	'''
+
 	def __init__ (self, root):
 		self.root = root
 		self.left_child = None
@@ -129,9 +162,9 @@ class Binary_Tree:
 	# the new node
 	def insert_left (self, new_node):
 		if self.left_child == None:
-			self.left_child = Binary_Tree(new_node)
+			self.left_child = BinaryTree(new_node)
 		else:
-			t = Binary_Tree(new_node)
+			t = BinaryTree(new_node)
 			t.left_child = self.left_child
 			self.left_child = t
 
@@ -140,9 +173,9 @@ class Binary_Tree:
 	# the new node
 	def insert_right (self, new_node):
 		if self.right_child == None:
-			self.right_child = Binary_Tree(new_node)
+			self.right_child = BinaryTree(new_node)
 		else:
-			t = Binary_Tree(new_node)
+			t = BinaryTree(new_node)
 			t.right_child = self.right_child
 			self.right_child = t
 
@@ -163,7 +196,7 @@ class Binary_Tree:
 		return self.root
 
 # Create a new binary tree with 1 as its root
-new_tree = Binary_Tree(1)
+new_tree = BinaryTree(1)
 # Insert a left child
 new_tree.insert_left(2)
 # Insert a right child

@@ -16,6 +16,30 @@ field) and a reference to the next node.
 
 # Class to create a single node for the list
 class Node ():
+	'''
+	Implement a Node for the unordered list. Each node has two information:
+	its data field (the data it holds) and a reference to the node that
+	follows it (`next`).
+
+	Attributes
+	----------
+	data_field : int
+		The data held by this node.
+	next : __main__.Node
+		The node that follows this one.
+
+	Methods
+	-------
+	get_data ()
+		Get the data held by this node.
+	get_next ()
+		Get the node (Node object) that follows this one.
+	set_data (new_data)
+		Overwrite the data held by the node.
+	set_next (new_next)
+		Overwrite the node that follows this one.
+	'''
+
 	def __init__ (self, init_data):
 		'''
 		Class constructor for a node of a linked list. `init_data` is the
@@ -23,8 +47,10 @@ class Node ():
 
 		Parameters
 		----------
-		init_data
+		init_data : int
 			The data of the node.
+		next : __main__.Node
+			The node that follows this node.
 		'''
 
 		self.data_field = init_data
@@ -40,7 +66,7 @@ class Node ():
 
 		Returns
 		-------
-		Node.data_field
+		int
 			The data held by this node.
 		'''
 
@@ -56,7 +82,7 @@ class Node ():
 
 		Returns
 		-------
-		Node.next
+		__main__.Node
 			The reference to the next node.
 		'''
 
@@ -68,7 +94,7 @@ class Node ():
 
 		Parameters
 		----------
-		new_data
+		new_data : int
 			The new data to be held by this node.
 
 		Returns
@@ -85,7 +111,7 @@ class Node ():
 
 		Parameters
 		----------
-		new_next
+		new_next : __main__.Node
 			The new reference.
 
 		Returns
@@ -96,11 +122,36 @@ class Node ():
 		self.next = new_next
 
 
-# Create a class for the unordered list (linked list) itself
-# The order of insertion is the exact opposite order of the items in the list\
-# (the last item inserted occupies the first position in the list and the\
-# first item inserted is the last item in the list)
 class UnorderedList ():
+	'''
+	Implement an unordered list (linked list) using Python's built-in lists.
+	The order of insertion is the exact opposite of the order of the items in
+	the list, that is, the last item inserted occupies the first position in
+	the list and the first item inserted is the last item in the list.
+
+	Attributes
+	----------
+	head : __main__.Node
+		The head (first) node of the list.
+
+	Methods
+	-------
+	is_empty ()
+		Check if the list is empty.
+	size ()
+		Get the size of the list.
+	search (item)
+		Search for a node that holds the given data field.
+	add (item)
+		Add a new node to the list.
+	remove (item)
+		Remove the first node in the list that holds the given data field.
+	get_full_list ()
+		Use linked list traversal to return a Python list with all the
+		data fields of the linked list.
+	'''
+
+
 	# When a new linked list is created it is empty (it doesn't point\
 	# to a head, thus it's empty)
 	def __init__ (self):
@@ -131,7 +182,7 @@ class UnorderedList ():
 
 		Parameters
 		----------
-		item
+		item : int
 			The data to be held by the new node.
 
 		Returns
@@ -184,7 +235,7 @@ class UnorderedList ():
 
 		Parameters
 		----------
-		item
+		item : int
 			The data to be searched for in the nodes of the linked list.
 
 		Returns
@@ -216,7 +267,7 @@ class UnorderedList ():
 
 		Parameters
 		----------
-		item
+		item : int
 			The first node in the list that holds this data field will be deleted.
 
 		Returns
