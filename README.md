@@ -15,6 +15,8 @@ This repository will only be updated once in a while when I have new examples fo
 
 * (mar. 10th 2019) Added a bunch of new files
 
+* (apr. 13th 2019) Added a bunch of new files, about openpyxl
+
 External references:
 
 -Beautiful Soup: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
@@ -22,6 +24,8 @@ External references:
 -Requests: http://docs.python-requests.org/en/master/
 
 -Google Search API: https://github.com/abenassi/Google-Search-API
+
+-openpyxl: https://openpyxl.readthedocs.io/en/stable/
 
 -Pygame: https://www.pygame.org/docs/
 
